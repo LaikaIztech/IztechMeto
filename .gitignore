@@ -1,0 +1,5 @@
+light_log.txt
+.idea/
+__pycache__/
+*.pyc
+
